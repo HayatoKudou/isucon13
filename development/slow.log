@@ -1,0 +1,648 @@
+/usr/sbin/mysqld, Version: 8.0.31 (MySQL Community Server - GPL). started with:
+Tcp port: 3306  Unix socket: /var/lib/mysql/mysql.sock
+Time                 Id Command    Argument
+# Time: 2025-11-22T10:09:00.112050Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    27
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806140;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:00.112123Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    27
+# Query_time: 0.000002  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806140;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:01.164258Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    28
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806141;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:02.232254Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    29
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806142;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:03.295910Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    30
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806143;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:04.347733Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    31
+# Query_time: 0.000011  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806144;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:05.403173Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    32
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806145;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:05.403212Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    32
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806145;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:06.465825Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    33
+# Query_time: 0.000016  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806146;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:07.534527Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    34
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806147;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:08.591582Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    35
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806148;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:08.591622Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    35
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806148;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:09.637027Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    36
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806149;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:10.698363Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    37
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806150;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:11.750108Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    38
+# Query_time: 0.000011  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806151;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:11.750139Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    38
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806151;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:12.813642Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    39
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806152;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:13.882005Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    40
+# Query_time: 0.000016  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806153;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:13.882047Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    40
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806153;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:14.937420Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    41
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806154;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:15.991575Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    42
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806155;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:15.991611Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    42
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806155;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:16.975943Z
+# User@Host: root[root] @ localhost []  Id:    43
+# Query_time: 0.000062  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1763806156;
+select @@version_comment limit 1;
+# Time: 2025-11-22T10:09:16.976043Z
+# User@Host: root[root] @ localhost []  Id:    43
+# Query_time: 0.000024  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806156;
+SET GLOBAL slow_query_log = 'ON';
+# Time: 2025-11-22T10:09:16.976096Z
+# User@Host: root[root] @ localhost []  Id:    43
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806156;
+SET GLOBAL long_query_time = 0;
+# Time: 2025-11-22T10:09:17.026374Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    44
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806157;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:17.026405Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    44
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806157;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:17.052073Z
+# User@Host: root[root] @ localhost []  Id:    45
+# Query_time: 0.000062  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1763806157;
+select @@version_comment limit 1;
+# Time: 2025-11-22T10:09:17.052731Z
+# User@Host: root[root] @ localhost []  Id:    45
+# Query_time: 0.000629  Lock_time: 0.000001 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1763806157;
+SHOW VARIABLES LIKE 'slow_query_log_file';
+# Time: 2025-11-22T10:09:17.052785Z
+# User@Host: root[root] @ localhost []  Id:    45
+# Query_time: 0.000002  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 1
+SET timestamp=1763806157;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:18.082648Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    46
+# Query_time: 0.000016  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806158;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:18.082678Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    46
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806158;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:19.143849Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    47
+# Query_time: 0.000059  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806159;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:19.143888Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    47
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806159;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:20.203786Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    48
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806160;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:20.203838Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    48
+# Query_time: 0.000002  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806160;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:21.269498Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    49
+# Query_time: 0.000011  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806161;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:21.269536Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    49
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806161;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:22.332360Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    50
+# Query_time: 0.000010  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806162;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:23.372073Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    51
+# Query_time: 0.000009  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806163;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:24.407483Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    52
+# Query_time: 0.000010  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806164;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:25.458939Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    53
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806165;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:26.523465Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    54
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806166;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:26.523501Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    54
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806166;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:27.581856Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    55
+# Query_time: 0.000042  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806167;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:27.581892Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    55
+# Query_time: 0.000002  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806167;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:28.644738Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    56
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806168;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:29.699282Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    57
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806169;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:30.762224Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    58
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806170;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:30.762261Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    58
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806170;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:31.822699Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    59
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806171;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:31.822735Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    59
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806171;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:32.679843Z
+# User@Host: root[root] @ localhost []  Id:    60
+# Query_time: 0.000139  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1763806172;
+select @@version_comment limit 1;
+# Time: 2025-11-22T10:09:32.680747Z
+# User@Host: root[root] @ localhost []  Id:    60
+# Query_time: 0.000866  Lock_time: 0.000001 Rows_sent: 2  Rows_examined: 2
+SET timestamp=1763806172;
+SHOW VARIABLES LIKE 'slow_query%';
+# Time: 2025-11-22T10:09:32.878998Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    61
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806172;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:32.879032Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    61
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806172;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:33.927590Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    62
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806173;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:33.927623Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    62
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806173;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:34.983267Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    63
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806174;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:34.983299Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    63
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806174;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:36.042367Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    64
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806176;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:36.042411Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    64
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806176;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:37.110573Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    65
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806177;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:38.162873Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    66
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806178;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:38.162908Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    66
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806178;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:39.224625Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    67
+# Query_time: 0.000010  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806179;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:39.224661Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    67
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806179;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:40.281713Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    68
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806180;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:41.329572Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    69
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806181;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:42.387917Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    70
+# Query_time: 0.000011  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806182;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:42.387951Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    70
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806182;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:43.454064Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    71
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806183;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:44.510150Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    72
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806184;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:45.564344Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    73
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806185;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:46.627661Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    74
+# Query_time: 0.000003  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806186;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:47.686971Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    75
+# Query_time: 0.000016  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806187;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:47.687008Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    75
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806187;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:48.742969Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    76
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806188;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:49.797632Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    77
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806189;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:49.797665Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    77
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806189;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:50.849364Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    78
+# Query_time: 0.000037  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806190;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:50.849400Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    78
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806190;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:51.905109Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    79
+# Query_time: 0.000018  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806191;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:51.905146Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    79
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806191;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:52.971126Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    80
+# Query_time: 0.000026  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806192;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:54.028170Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    81
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806194;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:55.084707Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    82
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806195;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:55.084840Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    82
+# Query_time: 0.000003  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806195;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:56.144800Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    83
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806196;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:56.144831Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    83
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806196;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:57.198429Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    84
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806197;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:57.198460Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    84
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806197;
+# administrator command: Quit;
+# Time: 2025-11-22T10:09:58.265944Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    85
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806198;
+# administrator command: Ping;
+# Time: 2025-11-22T10:09:59.332430Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    86
+# Query_time: 0.000024  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806199;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:00.396285Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    87
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806200;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:00.396322Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    87
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806200;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:01.467781Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    88
+# Query_time: 0.000015  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806201;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:01.467816Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    88
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806201;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:02.528291Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    89
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806202;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:02.528321Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    89
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806202;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:03.583342Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    90
+# Query_time: 0.000016  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806203;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:03.583375Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    90
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806203;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:04.632003Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    91
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806204;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:04.632034Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    91
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806204;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:05.693179Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    92
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806205;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:05.693210Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    92
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806205;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:06.751636Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    93
+# Query_time: 0.000014  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806206;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:07.807795Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    94
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806207;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:08.864648Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    95
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806208;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:08.864686Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    95
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806208;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:09.922579Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    96
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806209;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:10.977452Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    97
+# Query_time: 0.000021  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806210;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:12.036744Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    98
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806212;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:13.094142Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    99
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806213;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:13.094192Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:    99
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806213;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:14.141178Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:   100
+# Query_time: 0.000011  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806214;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:15.199720Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:   101
+# Query_time: 0.000013  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806215;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:15.199755Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:   101
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806215;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:16.261090Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:   102
+# Query_time: 0.000012  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806216;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:16.261123Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:   102
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806216;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:17.312908Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:   103
+# Query_time: 0.000021  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806217;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:17.312954Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:   103
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806217;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:18.366150Z
+# User@Host: isucon[isucon] @  [127.0.0.1]  Id:   104
+# Query_time: 0.000027  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806218;
+# administrator command: Ping;
+# Time: 2025-11-22T10:10:18.413096Z
+# User@Host: root[root] @ localhost []  Id:   105
+# Query_time: 0.000092  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1763806218;
+select @@version_comment limit 1;
+# Time: 2025-11-22T10:10:18.413160Z
+# User@Host: root[root] @ localhost []  Id:   105
+# Query_time: 0.000032  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806218;
+SET GLOBAL slow_query_log = 'ON';
+# Time: 2025-11-22T10:10:18.413224Z
+# User@Host: root[root] @ localhost []  Id:   105
+# Query_time: 0.000023  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806218;
+SET GLOBAL long_query_time = 0;
+# Time: 2025-11-22T10:10:18.413262Z
+# User@Host: root[root] @ localhost []  Id:   105
+# Query_time: 0.000001  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1763806218;
+# administrator command: Quit;
+# Time: 2025-11-22T10:10:18.489602Z
+# User@Host: root[root] @ localhost []  Id:   106
+# Query_time: 0.000065  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1763806218;
+select @@version_comment limit 1;
+# Time: 2025-11-22T10:10:18.490381Z
+# User@Host: root[root] @ localhost []  Id:   106
+# Query_time: 0.000746  Lock_time: 0.000001 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1763806218;
+SHOW VARIABLES LIKE 'slow_query_log_file';
