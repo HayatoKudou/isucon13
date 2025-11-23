@@ -1,4 +1,0 @@
-172.21.0.1 - - [23/Nov/2025:02:19:02 +0000] "GET / HTTP/1.1" 502 157 "-" "curl/8.7.1" "-"
-time:23/Nov/2025:02:19:02 +0000	host:172.21.0.1	forwardedfor:-	req:GET / HTTP/1.1	status:502	method:GET	uri:/	size:157	referer:-	ua:curl/8.7.1	reqtime:3.098	cache:-	runtime:-	apptime:3.099	vhost:127.0.0.1
-172.21.0.1 - - [23/Nov/2025:02:20:45 +0000] "GET / HTTP/1.1" 502 157 "-" "curl/8.7.1" "-"
-time:23/Nov/2025:02:20:45 +0000	host:172.21.0.1	forwardedfor:-	req:GET / HTTP/1.1	status:502	method:GET	uri:/	size:157	referer:-	ua:curl/8.7.1	reqtime:14.285	cache:-	runtime:-	apptime:14.285	vhost:127.0.0.1
