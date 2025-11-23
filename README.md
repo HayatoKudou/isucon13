@@ -4,8 +4,8 @@
 
 ```bash
 $ cd development
-$ make down/go
-$ make up/go
+$ make down/node
+$ make up/node
 ```
 
 ### ベンチマーカーの実行

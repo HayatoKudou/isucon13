@@ -6,22 +6,7 @@
 
 ### 1. スロークエリログのクリア
 
-ベンチマークを実行する前に、既存のログをクリアします:
-
-```bash
-# スロークエリログファイルのパスを取得してクリア
-SLOW_LOG=$(docker exec mysql mysql -uroot -proot -Nse "SHOW VARIABLES LIKE 'slow_query_log_file';" 2>/dev/null | awk '{print $2}' || echo "/var/lib/mysql/slow.log")
-docker exec mysql bash -c "echo '' > ${SLOW_LOG}"
-```
-
-または、より簡単に:
-
-```bash
-# スロークエリログを有効化してからクリア（スクリプト内で自動的に有効化されます）
-docker exec mysql mysql -uroot -proot -e "SET GLOBAL slow_query_log = 'ON'; SET GLOBAL long_query_time = 0;" 2>/dev/null
-SLOW_LOG=$(docker exec mysql mysql -uroot -proot -Nse "SHOW VARIABLES LIKE 'slow_query_log_file';" 2>/dev/null | awk '{print $2}')
-docker exec mysql bash -c "echo '' > ${SLOW_LOG}"
-```
+slow.log　を消す
 
 ### 2. ベンチマークの実行
 

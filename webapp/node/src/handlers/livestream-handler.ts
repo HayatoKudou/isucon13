@@ -169,7 +169,7 @@ export const searchLivestreamsHandler = async (
 
       const [livestreamTags] = await conn
         .query<(LivestreamTagsModel & RowDataPacket)[]>(
-          'SELECT * FROM livestream_tags WHERE tag_id IN (?) ORDER BY livestream_id DESC',
+          'SELECT id, livestream_id, tag_id FROM livestream_tags WHERE tag_id IN (?) ORDER BY livestream_id DESC',
           [tagIds.map((tag) => tag.id)],
         )
         .catch(throwErrorWith('failed to get keyTaggedLivestreams'))

@@ -20,7 +20,7 @@ export const fillUserResponse = async (
   getFallbackUserIcon: () => Promise<Readonly<ArrayBuffer>>,
 ) => {
   const [[theme]] = await conn.query<(ThemeModel & RowDataPacket)[]>(
-    'SELECT * FROM themes WHERE user_id = ?',
+    'SELECT id, user_id, dark_mode FROM themes WHERE user_id = ?',
     [user.id],
   )
 

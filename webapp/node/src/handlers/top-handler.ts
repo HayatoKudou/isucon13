@@ -14,7 +14,7 @@ export const getTagHandler = async (
 
   try {
     const [tags] = await conn
-      .execute<(TagsModel & RowDataPacket)[]>('SELECT * FROM tags')
+      .execute<(TagsModel & RowDataPacket)[]>('SELECT id, name FROM tags')
       .catch(throwErrorWith('failed to get tags'))
 
     await conn.commit().catch(throwErrorWith('failed to commit'))
@@ -62,7 +62,7 @@ export const getStreamerThemeHandler = [
 
       const [[theme]] = await conn
         .execute<(ThemeModel & RowDataPacket)[]>(
-          'SELECT * FROM themes WHERE user_id = ?',
+          'SELECT id, user_id, dark_mode FROM themes WHERE user_id = ?',
           [user.id],
         )
         .catch(throwErrorWith('failed to get user theme'))

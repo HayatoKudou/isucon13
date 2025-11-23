@@ -34,12 +34,12 @@ export const fillLivestreamResponse = async (
 
   const [livestreamTags] = await conn.query<
     (LivestreamTagsModel & RowDataPacket)[]
-  >('SELECT * FROM livestream_tags WHERE livestream_id = ?', [livestream.id])
+  >('SELECT id, livestream_id, tag_id FROM livestream_tags WHERE livestream_id = ?', [livestream.id])
 
   const tags: TagsModel[] = []
   for (const livestreamTag of livestreamTags) {
     const [[tag]] = await conn.query<(TagsModel & RowDataPacket)[]>(
-      'SELECT * FROM tags WHERE id = ?',
+      'SELECT id, name FROM tags WHERE id = ?',
       [livestreamTag.tag_id],
     )
     tags.push(tag)
