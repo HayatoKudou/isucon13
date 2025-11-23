@@ -337,7 +337,8 @@ export const moderateHandler = [
         // ライブコメント一覧取得
         const [livecomments] = await conn
           .query<(LivecommentsModel & RowDataPacket)[]>(
-            'SELECT * FROM livecomments',
+            'SELECT * FROM livecomments WHERE livestream_id = ?',
+            [livestreamId],
           )
           .catch(throwErrorWith('failed to get livecomments'))
 
