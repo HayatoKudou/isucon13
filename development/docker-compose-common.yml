@@ -6,6 +6,7 @@ services:
     container_name: nginx
     volumes:
       - ./etc/nginx/conf.d:/etc/nginx/conf.d
+      - ./logs/nginx:/var/log/nginx
     ports:
       - 127.0.0.1:8443:80
     depends_on:
@@ -20,6 +21,7 @@ services:
       - ../webapp/sql/initdb.d:/docker-entrypoint-initdb.d
       - ./pdns/20_powerdns_schema.sql:/docker-entrypoint-initdb.d/20_powerdns_schema.sql
       - mysql_volume:/var/lib/mysql
+      - ./etc/mysql/my.cnf:/etc/my.cnf.d/custom.cnf:ro
     ports:
       - "127.0.0.1:3306:3306"
     restart: always
